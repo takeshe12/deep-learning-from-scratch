@@ -1,3 +1,19 @@
+# DeepLearning
+study about "Deep Learning from Scratch"
+
+[Deep Learning from Scratch](https://www.oreilly.co.jp/books/9784873117584/)
+
+forc from [oreilly-japan/deep-learning-from-scratch](https://github.com/oreilly-japan/deep-learning-from-scratch)
+
+# environment
+- OS X EL Capitan 10.11.6
+- fish, version 2.2.0
+- Python 3.4.3
+- matplotlib (2.0.0)
+- numpy (1.12.1)
+
+----
+
 # ゼロから作る Deep Learning
 
 ---
